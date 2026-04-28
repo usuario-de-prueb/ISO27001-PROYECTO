@@ -1,1 +1,32 @@
+EVALUACIÓN DE SEGURIDAD – RED TEAM
 
+Dominio:
+technova.com
+
+Información de usuarios:
+Se identificaron empleados a través de redes sociales como LinkedIn:
+- Administrador de sistemas
+- Recursos humanos
+- Desarrolladores
+
+Correos electrónicos:
+Posibles patrones detectados:
+- nombre.apellido@technova.com
+- inicialapellido@technova.com
+
+Subdominios:
+- mail.technova.com
+- dev.technova.com
+- vpn.technova.com
+
+Geolocalización:
+El servidor se encuentra alojado en un proveedor cloud con ubicación aproximada en América.
+
+Información sensible:
+- Archivos con metadatos expuestos
+- Posibles accesos a paneles administrativos
+
+Vulnerabilidades (análisis pasivo):
+- Versiones de software visibles
+- Falta de cabeceras de seguridad
+- Servicios expuestos innecesariamente

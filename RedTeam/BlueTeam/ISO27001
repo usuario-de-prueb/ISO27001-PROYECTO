@@ -1,1 +1,19 @@
+Protección de servidores:
+- Implementación de firewall
+- Uso de VPN para accesos remotos
+- Actualización constante de sistemas
+- Deshabilitación de servicios innecesarios
 
+Corrección de vulnerabilidades:
+- Actualizar software desactualizado
+- Implementar HTTPS
+- Restringir accesos a subdominios
+- Eliminar información sensible expuesta
+
+Software vulnerable:
+Se detectaron posibles versiones antiguas de servicios.
+
+Prevención:
+- Gestión de parches
+- Escaneo periódico de vulnerabilidades
+- Inventario de software actualizado
